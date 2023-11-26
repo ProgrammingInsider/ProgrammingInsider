@@ -3,7 +3,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=ProgrammingInsider.ProgrammingInsider)
 [![Github](https://img.shields.io/github/followers/ProgrammingInsider?label=Follow&style=social)](https://github.com/ProgrammingInsider)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ProgrammingInsider&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammingInsider&theme=tokyonight)
 
 
 <!--
